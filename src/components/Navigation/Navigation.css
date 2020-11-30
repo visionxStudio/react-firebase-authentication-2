@@ -1,0 +1,22 @@
+.Navigation {
+    width:100%;
+    position: sticky;
+    top: 0;
+    background-color: orange;
+}
+
+.Navigation__items {
+    text-align: center;
+    list-style: none;
+    margin-top: 0;
+}
+
+.Navigation__item {
+    display: inline-block;
+    margin: 8px;
+    padding: 8px;
+}
+
+.Navigation__item a {
+    text-decoration: none;
+}
